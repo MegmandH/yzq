@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 珂教兴国
 
 You can use the [editor on GitHub](https://github.com/megmandH/yzq/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
